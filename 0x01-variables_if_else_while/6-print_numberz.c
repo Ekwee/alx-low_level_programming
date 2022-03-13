@@ -1,14 +1,14 @@
 #include <stdio.h>
 /**
- * main : can print all singlt digits numbers of base 10 from 0
+ * main - print all singlt digits numbers of base ten
  * putchar : creates a new line
- * return (0) 
+ * Return - (0) success 
  */
 int main(void)
-{ int n;
-	for(n=48; n<58; n++){
+{ 
+	int n;
+	for(n = 48; n < 58; n++)
 		putchar(n);
-	}
-	putchar('\n');
+	putchar ('\n');
 	return(0);
 }
