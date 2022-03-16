@@ -2,7 +2,7 @@
 
 /**
  * print_sign - prints sign based on number input
- *n - is my variable
+ *@n - is my variable
  * Returns: 1 & + for n > 0 , 0 & 0 for n = 0
  */
 
