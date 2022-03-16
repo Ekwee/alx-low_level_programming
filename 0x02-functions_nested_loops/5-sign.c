@@ -3,7 +3,7 @@
 /**
  * print_sign - prints sign based on number input
  *@n - is my variable
- * Returns: 1 & + for n > 0 , 0 & 0 for n = 0
+ * Return: 1 & + for n > 0 , 0 & 0 for n = 0
  */
 
 int print_sign(int n)
