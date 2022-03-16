@@ -6,11 +6,14 @@
  *return (0) 
  */
 
-int main(void){
+int main(void)
+{
 	char s[9] ="_putchar";
 
-for(int i = 0 ; i <9; i++){
-   _putchar(s[i]);
-}	   
- _putchar('\n');
+        for(int i = 0 ; i <9; i++)
+	{
+         _putchar(s[i]);
+        }	   
+        _putchar('\n');
+	return (0);
 }
