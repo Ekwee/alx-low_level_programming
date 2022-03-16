@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - now print_alphabet
+ * print_alphabet - allows us to print the alphabet
  *
  * Return: Always 0.
  */
