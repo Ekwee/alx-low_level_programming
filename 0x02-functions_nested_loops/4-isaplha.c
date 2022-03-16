@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - checks alphabetic character
- *
+ *int s - a variable
  * Return: 1 if it is true
  */
 
