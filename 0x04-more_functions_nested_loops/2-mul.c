@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check code
- *
+ * mull - multiply variables
+ *@a: character to multiply
+ *@b: character to multiply
  * Return: Always 0
  */
 int mul(int a, int b);
