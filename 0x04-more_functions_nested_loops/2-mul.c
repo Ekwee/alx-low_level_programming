@@ -8,6 +8,10 @@
  */
 int mul(int a, int b);
 
+int main()
+{
+	mull();
+}
 int mull(int a, int b)
 {
 	int result;
