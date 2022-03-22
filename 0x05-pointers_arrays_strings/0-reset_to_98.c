@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - changes the value to given value
- * @*n : hold our address and value
+ * @n : hold our address and value
  *Description: changes pointer value to given no
  */
 
