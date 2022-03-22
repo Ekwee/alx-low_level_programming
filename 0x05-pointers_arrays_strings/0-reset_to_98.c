@@ -3,6 +3,7 @@
 /*
  * reset_to_98: changes the value to 98
  * @*n : hold our address and value
+ *Description: changes pointer value to given no
  */
 
 void reset_to_98(int *n)
