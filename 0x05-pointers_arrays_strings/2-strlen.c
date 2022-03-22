@@ -3,6 +3,7 @@
 /**
  * _strlen - a func to return string length
  * @s: parameter containing our string
+ * Return: returns the string length
  */
 
 int _strlen(char *s)
