@@ -3,7 +3,7 @@
 /**
  * _strcpy - a func that copies a string pointed by src
  * @dest: pointer of the return value
- * @str: pointer of the string
+ * @src: pointer of the string
  * Return: value of dest
  */
 
