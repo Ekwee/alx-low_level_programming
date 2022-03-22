@@ -7,15 +7,20 @@
  * @n: a parameter
  */
 
-void print_array(int *a, int n)
+void print_array(char *s)
 {
-	int s = 0;
+	int a = 0;
 
-	for (; s < n; s++)
+	while (s[a] != '\0')
 	{
-		printf("%d", *(a + s));
-		if (s != (n - 1))
-		printf(", ");
+		a++;
 	}
-	printf("\n");
+	 a++;
+while (a >= 0)
+{
+	_putchar(s[a]);
+	a--;
+}
+
+_putchar('\n');
 }
